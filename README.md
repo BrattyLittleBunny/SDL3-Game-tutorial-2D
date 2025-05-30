@@ -5,3 +5,8 @@ Uses Tiled for the graphics
 Unfortunately he never finished the tutorial ;~;
 
 i plan on building on this for making a true game, but i'll do that in another file when i do :3
+
+Assets in this are from https://o-lobster.itch.io/adventure-pack
+is a free asset pack
+i didn't include them 'cause it was to big and i couldn't be bothered with uploading them when you can download for free :3
+Tiled is downloadable (for free) at https://thorbjorn.itch.io/tiled
